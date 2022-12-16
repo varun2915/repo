@@ -59,3 +59,10 @@ ls'cd ..
 ls
 clear
 \\\\\\exit
+ls
+clear
+ls
+touch kk.txt
+git add .
+git commit -m "k"
+git push origin master
